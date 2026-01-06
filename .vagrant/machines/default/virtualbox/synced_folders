@@ -1,0 +1,1 @@
+{"virtualbox":{"/opt/":{"guestpath":"/opt","hostpath":"C:/Users/maina/Desktop/vagrant/python","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/maina/Desktop/vagrant","disabled":false,"__vagrantfile":true}}}
